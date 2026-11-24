@@ -1,12 +1,21 @@
-![WhatsApp Image 2026-02-07 at 11 50 34 PM jpeg==](https://github.com/user-attachments/assets/d8a981fd-608e-4a1f-baa9-bfd5673d634d)
-![WhatsApp Image 2026-02-07 at 11 50 34 PM](https://github.com/user-attachments/assets/77db14c7-192a-4653-b9c7-593703e57465)
-![WhatsApp Image 2026-02-07 at 11 50 34 PM jpeg-](https://github.com/user-attachments/assets/01a5873c-b3ca-41cc-9f1d-d971da09edc5)
-![WhatsApp Image 2026-02-07 at 11 50 34 PM jpeg--](https://github.com/user-attachments/assets/5b431e2f-5737-41b7-84d0-41d78acd6878)
-![WhatsApp Image 2026-02-08 at 12 00 02 AM jpeg-=](https://github.com/user-attachments/assets/77c92a40-e5f2-47b0-b3c7-0dae403e26f5)
-The analysis focuses on key KPIs such as the total number of returns, total cost of returned products, and the average number of days it takes customers to identify an issue, helping to understand both financial loss and customer behavior.
+<img width="1600" height="900" alt="WhatsApp Image 2026-02-07 at 11 50 34 PM jpeg==" src="https://github.com/user-attachments/assets/3892144a-221d-4e4e-8d60-b80c55db083c" />
 
-The dashboard highlights the most returned product categories, menetioning similar return reasons into standardized groups for clearer insights, and analyzes payment and shipping methods associated with higher return rates.
+# E-commerce Returns Analysis | Power BI
 
-This approach transforms raw returns data into actionable insights that support reducing operational losses, improving process efficiency, and enabling data-driven decisions 
+Find the live interactive version here: https://app.powerbi.com/groups/me/reports/13e7bad8-2834-4dc5-87a6-03b1154ad2e9/6d69b188be2022e93935?experience=power-bi
 
-Tools: This dashboard Built using Power BI with data cleaning by power query and data modelling.
+This Power BI dashboard analyzes e-commerce product returns. It focuses on return volume, return reasons, payment methods, and shipping methods to help understand why customers return products.
+
+## Key Dimensions & Features
+
+**Performance KPI Cards:** Shows Total Returns, Total Price of Returned Products, and Average Days to Return.
+
+**Payment Method Analysis:** Compares returns across different payment methods, including Credit Card, Debit Card, PayPal, and Gift Card.
+
+**Category Analysis:** Shows the number of returns across product categories, such as Electronics, Books, Home, Toys, and Clothing.
+
+**Shipping Method Analysis:** Compares returns by shipping method, including Express, Standard, and Next-Day delivery.
+
+**Return Reason Analysis:** Identifies the main reasons for product returns, such as Defective, Changed Mind, Not as Described, and Wrong Item.
+
+**Interactive Filters:** Includes filters for Product Category, Payment Method, Shipping Method, and Return Reason to explore the data in more detail.
