@@ -1,4 +1,5 @@
-<img width="1600" height="900" alt="WhatsApp Image 2026-02-07 at 11 50 34 PM jpeg==" src="https://github.com/user-attachments/assets/3892144a-221d-4e4e-8d60-b80c55db083c" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-02-07 at 11 50 34 PM jpeg==" src="https://github.com/user-attachments/assets/12f1c1bd-986e-4b7e-8242-701f4b428888" />
+
 
 # E-commerce Returns Analysis | Power BI
 
